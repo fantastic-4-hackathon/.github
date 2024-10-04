@@ -1,1 +1,1 @@
-# .github
+# Generative AI for Marketing
